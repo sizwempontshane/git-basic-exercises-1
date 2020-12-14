@@ -1,0 +1,1000 @@
+ 1056  node api.js 
+ 1057  git checkout -b consumer_github_api
+ 1058  git status
+ 1059  touch .gitignore
+ 1060  nano .gitignore
+ 1061  git status
+ 1062  nano .gitignore
+ 1063  clear
+ 1064  git add .
+ 1065  git status
+ 1066  git add .
+ 1067  git status
+ 1068  cd ./
+ 1069  cd ../
+ 1070  git status
+ 1071  touch .gitignore
+ 1072  nano .gitignore
+ 1073  git status
+ 1074  git add .
+ 1075  git commit -m "first commit"
+ 1076  git push -u origin consumer_github_api 
+ 1077  npm test
+ 1078  cd src
+ 1079  node password_checker.js 
+ 1080  npm itit
+ 1081  clear
+ 1082  npm init
+ 1083  npx jasmine init
+ 1084  npm test
+ 1085  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-222-memory-game-in-vanilla-js.git
+ 1086  cd src
+ 1087  ls
+ 1088  node css.js
+ 1089  init jasmine
+ 1090  npm init jasmine
+ 1091  npx init jasmine
+ 1092  git init
+ 1093  git checkout -b memory_game_in_vanilla
+ 1094  git status
+ 1095  git add .
+ 1096  git commit -m "memory game 1st"
+ 1097  git push -u origin memory_game_in_vanilla 
+ 1098  npm i jsdom --save-dev
+ 1099  npm init jasmine
+ 1100  npx jasmine init
+ 1101  npm init
+ 1102  clear
+ 1103  npm test
+ 1104  clear
+ 1105  npm test
+ 1106  clear
+ 1107  npm test
+ 1108  git init
+ 1109  nano .gitignore
+ 1110  touch .gitignore
+ 1111  nano .gitignore
+ 1112  it statuss
+ 1113  clear
+ 1114  git status
+ 1115  git add .
+ 1116  git checkout -b memory_game_in_vanilla
+ 1117  git commit -m "updated project"
+ 1118  git push
+ 1119  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-280-node-file-io-.git
+ 1120  npm jasmine init
+ 1121  npm init jasmine
+ 1122  npm jasmine
+ 1123  npm jasmine init
+ 1124  npx jasmine init
+ 1125  clear
+ 1126  npm jasmine init
+ 1127  clear
+ 1128  npm jasmine 
+ 1129  npm init
+ 1130  npm add jasmine
+ 1131  npx add jasmine
+ 1132  clear
+ 1133  npm add jasmine
+ 1134  clear
+ 1135  npm init
+ 1136  npm add jasmine
+ 1137  npm jasmine add
+ 1138  clear
+ 1139  npm add jasmin
+ 1140  npm jasmine init
+ 1141  npm jasmin init
+ 1142  npx jasmin init
+ 1143  npx jasmine init
+ 1144  clear
+ 1145  cd src
+ 1146  node node_file.js 
+ 1147  clear
+ 1148  node node_file.js 
+ 1149  cd src
+ 1150  node alice.js 
+ 1151  node node_modules/
+ 1152  cd src
+ 1153  node node_file.js 
+ 1154  clear
+ 1155  node node_file.js 
+ 1156  clear
+ 1157  node node_file.js 
+ 1158  clear
+ 1159  node node_file.js 
+ 1160  git init
+ 1161  git checkout -b node_&_file_io
+ 1162  git status
+ 1163  cd ../
+ 1164  git status
+ 1165  touch .gitignore
+ 1166  nano .gitignore
+ 1167  git status
+ 1168  git add .
+ 1169  git commit -m "initial commit"
+ 1170  git push
+ 1171  git init
+ 1172  git status
+ 1173  cd src
+ 1174  node node_file.js 
+ 1175  clear
+ 1176  node node_file.js 
+ 1177  \
+ 1178  node node_file.js 
+ 1179  clear
+ 1180  node node_file.js
+ 1181  node node_file.js
+ 1182  clear
+ 1183  node node_file.js
+ 1184  clear
+ 1185  node node_file.js
+ 1186  clear
+ 1187  node node_file.js
+ 1188  clear
+ 1189  node node_file.js
+ 1190  cd src ../
+ 1191  cd ../
+ 1192  npm test
+ 1193  clear
+ 1194  npm test
+ 1195  clear\
+ 1196  npm test
+ 1197  clear
+ 1198  npm test
+ 1199  clear
+ 1200  npm test
+ 1201  clear
+ 1202  npm test
+ 1203  clear
+ 1204  npm test
+ 1205  clear
+ 1206  npm test
+ 1207  clear
+ 1208  npm test
+ 1209  clear
+ 1210  cd src
+ 1211  node node_file.js 
+ 1212  cd src
+ 1213  clear
+ 1214  node node_file.js 
+ 1215  cd ../
+ 1216  npm test
+ 1217  cd src
+ 1218  node node_file.js 
+ 1219  clear
+ 1220  node node_file.js 
+ 1221  clear
+ 1222  node node_file.js 
+ 1223  clear
+ 1224  node node_file.js 
+ 1225  clear
+ 1226  node node_file.js 
+ 1227  clear
+ 1228  node node_file.js 
+ 1229  clear
+ 1230  node node_file.js 
+ 1231  clear
+ 1232  node node_file.js 
+ 1233  clear
+ 1234  node node_file.js 
+ 1235  clear
+ 1236  node node_file.js 
+ 1237  clear
+ 1238  node node_file.js 
+ 1239  clear
+ 1240  node node_file.js 
+ 1241  clear
+ 1242  node node_file.js 
+ 1243  clear
+ 1244  cd ../
+ 1245  npm test
+ 1246  clear
+ 1247  npm test
+ 1248  clear
+ 1249  npm test
+ 1250  clear
+ 1251  npm test
+ 1252  jasmine
+ 1253  clear
+ 1254  jasmin
+ 1255  jasmine
+ 1256  clear
+ 1257  n[m test
+ 1258  npm test
+ 1259  clear
+ 1260  npm test
+ 1261  git init
+ 1262  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-280-node-file-io-.git
+ 1263  npm test
+ 1264  /home/recruit/node/spec
+ 1265  /home/recruit/node/node_modules
+ 1266  /home/recruit/node/src
+ 1267  /home/recruit/node/README.md
+ 1268  /home/recruit/node/package-lock.json
+ 1269  /home/recruit/node/package.json
+ 1270  /home/recruit/node/visitor_alice_cooper.json
+ 1271  /home/recruit/node/visitor_bob_marley.json
+ 1272  /home/recruit/node/visitor_charley_sheen.jsonclear
+ 1273  clear
+ 1274  npm test
+ 1275  clear
+ 1276  npm test
+ 1277  clear
+ 1278  npm test
+ 1279  clear
+ 1280  npm test
+ 1281  clear
+ 1282  npm test
+ 1283  clear
+ 1284  npm test
+ 1285  clear
+ 1286  npm test
+ 1287  git init
+ 1288  touch .gitignore
+ 1289  nano .gitignore
+ 1290  git status
+ 1291  git checkout -b node_file
+ 1292  git add .
+ 1293  git commit -m "complete"
+ 1294  git push -u origin node_file
+ 1295  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1296  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1297  sudo apt-key fingerprint 0EBFCD88
+ 1298  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1299  apt-cache madison docker-ce
+ 1300  sudo apt-get install docker-ce=<VERSION_STRING> docker-ce-cli=<VERSION_STRING> containerd.io
+ 1301  clear
+ 1302  sudo apt-get install
+ 1303  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1304  sudo apt-key fingerprint 0EBFCD88
+ 1305  sudo add-apt-repository stable both
+ 1306  sudo apt-get update
+ 1307  sudo groupadd docker
+ 1308  sudo usermod -aG docker $USER
+ 1309  sudo usermod -aG docker sizwemponshane
+ 1310  sudo usermod -aG docker mpontshane13
+ 1311  sudo groupadd docker
+ 1312  sudo usermod -aG docker mpontshane13
+ 1313  sudo usermod -aG docker $USERsanele13
+ 1314  sudo usermod -aG docker $USERmpontshane13
+ 1315  sudo usermod -aG docker sanele13
+ 1316  sudo usermod -aG docker $mpontshane13
+ 1317  sudo apt-get install postgresql
+ 1318  clear
+ 1319  sudo groupadd docker
+ 1320  sudo usermod -aG docker mpontshane13
+ 1321  sudo dpkg -i /path/to/package.deb
+ 1322  sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'
+ 1323  wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+ 1324  sudo apt-get update
+ 1325  sudo apt-get -y install postgresql
+ 1326  git init
+ 1327  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-200-sql-.git
+ 1328  dockercompose up
+ 1329  docker-compose up
+ 1330  sudo apt install docker-compose
+ 1331  docker-compose up
+ 1332  clear
+ 1333  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1334  sudo apt-get update
+ 1335  sudo apt-key fingerprint 0EBFCD88
+ 1336  pub   rsa4096 2017-02-22 [SCEA]
+ 1337  uid           [ unknown] Docker Release (CE deb) <docker@docker.com>
+ 1338  sub   rsa4096 2017-02-22 [S]
+ 1339  clear
+ 1340  clear\
+ 1341  clear
+ 1342  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+ 1343     $(lsb_release -cs) \
+ 1344     stable"
+ 1345  sudo apt-get update
+ 1346  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1347  clear
+ 1348  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1349  sudo apt-get update
+ 1350  clear
+ 1351  sudo apt-key fingerprint 0EBFCD88
+ 1352  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"
+ 1353  sudo apt-get update
+ 1354  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1355  clear
+ 1356  docker-compose up
+ 1357  docker-compose up
+ 1358  git init
+ 1359  git checkout -b sql
+ 1360  git status
+ 1361  git add .
+ 1362  git clone
+ 1363  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-200-sql-.git
+ 1364  git init
+ 1365  git status
+ 1366  touch .gitignore
+ 1367  nano .gitignore
+ 1368  git status
+ 1369  git checkout -b sql
+ 1370  git add .
+ 1371  git status
+ 1372  git commit -m "initial_commit"
+ 1373  git push -u origin sql
+ 1374  git clone https://github.com/sizwempontshane/katas-1.git
+ 1375  git init
+ 1376  git status
+ 1377  git add katas.js 
+ 1378  git status
+ 1379  git commit -m "updated code"
+ 1380  git push
+ 1381  git init
+ 1382  git status
+ 1383  git add katas.js 
+ 1384  git staus
+ 1385  git status
+ 1386  git commit -m "final update"
+ 1387  git push
+ 1388  git status
+ 1389  git init
+ 1390  git status
+ 1391  git add .
+ 1392  git coomit -m "final update"
+ 1393  git commit -m "final update"
+ 1394  git push
+ 1395  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-280-node-file-io-.git
+ 1396  cd src
+ 1397  node node_file.js 
+ 1398  clear
+ 1399  cd ./
+ 1400  cd ..
+ 1401  git status
+ 1402  clear
+ 1403  git init
+ 1404  git status
+ 1405  git add .
+ 1406  git status
+ 1407  git checkout -b node_file
+ 1408  git status
+ 1409  git commit -m "updated code"
+ 1410  git push -u origin node_file
+ 1411  git push
+ 1412  git status
+ 1413  git push -u origin node_file
+ 1414  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-280-node-file-io-.git
+ 1415  git init
+ 1416  touch .gitignore
+ 1417  nano .gitignore
+ 1418  git status
+ 1419  git add .
+ 1420  git init
+ 1421  touch .gitignore
+ 1422  nano .gitignore
+ 1423  git status
+ 1424  git checkout -b node_file
+ 1425  git status
+ 1426  git commit -m "updated code"
+ 1427  git push -u origin node_file
+ 1428  git push
+ 1429  git push --set-upstream origin node_file
+ 1430  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-280-node-file-io-.git
+ 1431  git init
+ 1432  touch .gitignore
+ 1433  nano .gitignore
+ 1434  git status
+ 1435  git checkout -b nodefile
+ 1436  git add .
+ 1437  git commit -m "updated node"
+ 1438  git push -u origin nodefile
+ 1439  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-282-node-sql-assignment-.git
+ 1440  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1441  clear
+ 1442  sudo apt-get update
+ 1443  clear
+ 1444  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+ 1445  clear
+ 1446  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1447  sudo apt-key fingerprint 0EBFCD88
+ 1448  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"
+ 1449  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1450  docker-compose up
+ 1451  sudo netstat -p -nlp | grep 5432
+ 1452  jasmine init
+ 1453  jasmin init
+ 1454  npm init
+ 1455  jasmine init
+ 1456  npx add jasmin
+ 1457  docker-compse op
+ 1458  docker-compse up
+ 1459  docker-compose up
+ 1460  npm test
+ 1461  npm install --save pg
+ 1462  cd src
+ 1463  clear
+ 1464  node node_sql.js 
+ 1465  docker-compose up
+ 1466  npm test
+ 1467  sudo apt-get update
+ 1468  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1469  sudo apt autoremove
+ 1470  node -v
+ 1471  clear
+ 1472  sudo apt-get update
+ 1473  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+ 1474  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1475  sudo apt-key fingerprint 0EBFCD88
+ 1476  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"
+ 1477  clear
+ 1478  sudo apt-get update
+ 1479  sudo apt-get install docker-ce docker-ce-cli containerd.io
+ 1480  apt-cache madison docker-ce
+ 1481  docker-compose up
+ 1482  cd src
+ 1483  node node_sql.js 
+ 1484  docker-compose up
+ 1485  cd ..
+ 1486  clear
+ 1487  docker-compose up
+ 1488  clear
+ 1489  docker-compose up
+ 1490  cd src
+ 1491  node node_sql.js 
+ 1492  cd ..
+ 1493  docker-compose up
+ 1494  docker-compose down
+ 1495  docker-compose up
+ 1496  clear
+ 1497  docker rm -fv $(docker ps-aq)
+ 1498  docker rm --help
+ 1499  docker rm -f
+ 1500  docker rm --f
+ 1501  docker rm -f $(docker ps-aq)
+ 1502  docker container kill
+ 1503  docker container kill --help
+ 1504  sudo docker ps
+ 1505  clear
+ 1506  sudo docker ps
+ 1507  clear
+ 1508  docker kill --signal=SIGTERM <3952b8186399>
+ 1509  docker kill --signal=SIGTERM 3952b8186399
+ 1510  sudo docker ps
+ 1511  clear
+ 1512  docker kill --signal=SIGTERM b3e831d4d573
+ 1513  sudo docker ps
+ 1514  docker kill --signal=SIGTERM b3e831d4d573
+ 1515  sudo docker ps
+ 1516  docker-compose up
+ 1517  sudo docker ps
+ 1518  clear
+ 1519  cd src
+ 1520  node node_sql.js 
+ 1521  clear
+ 1522  node node_sql.js 
+ 1523  cd ..
+ 1524  docker-compose up
+ 1525  clear
+ 1526  cd src
+ 1527  node node_sql.js 
+ 1528  cd ..
+ 1529  ls
+ 1530  docker-compose -d
+ 1531  docker-compose up -d
+ 1532  clear
+ 1533  node src/node_sql.js 
+ 1534  clear
+ 1535  docker ps
+ 1536  sudo systemctl stop postgresql
+ 1537  docker-compose up
+ 1538  docker ps
+ 1539  sudo docker kill 20fe652c19ce b3e831d4d573
+ 1540  docker ps
+ 1541  docker-compose up
+ 1542  sudo apt-get install postgresql
+ 1543  docker-compose -v
+ 1544  sudo apt-get purge docker-engine
+ 1545  sudo apt-get autoremove --purge docker-engine
+ 1546  rm -rf /var/lib/docker
+ 1547  sudo find / -name '*docker*'
+ 1548  docker-compose -v
+ 1549  sudo apt-get purge docker-ce
+ 1550  docker-compose -v
+ 1551  docker-compose version
+ 1552  cd Desktop
+ 1553  ls
+ 1554  cd DockerComposeFile/
+ 1555  touch docker-compos.yml
+ 1556  ls
+ 1557  vi docker-compos.yml 
+ 1558  clear
+ 1559  docker-compose up
+ 1560  docker ps
+ 1561  sudo docker kill 7ac8610dc26c
+ 1562  clear
+ 1563  sudo apt-get install postgresql
+ 1564  clear
+ 1565  docker-compose up
+ 1566  docker ps
+ 1567  docker-compose -v
+ 1568  sudo apt-get install postgresql
+ 1569  docker-compose up
+ 1570  docker run hello-world
+ 1571  docker run -p 8080:8080 scrapinghub/splash
+ 1572  sudo journalctl -fu docker
+ 1573  docker run -d dockerswarm/swarm:master join --advertise=192.168.1.105:2375 consul://192.168.1.103:8500
+ 1574  dockerd
+ 1575  sudo apt install docker.io
+ 1576  docker-compose up
+ 1577  docker run hello-world
+ 1578  docker-compose up
+ 1579  docker-compose ps
+ 1580  docker-compose -v
+ 1581  clear
+ 1582  sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+ 1583  sudo chmod +x /usr/local/bin/docker-compose
+ 1584  docker-compose --version
+ 1585  docker-compose up
+ 1586  clear
+ 1587  sudo apt-get remove docker docker-engine docker.io containerd runc
+ 1588  sudo apt-get update
+ 1589  sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg-agent     software-properties-common
+ 1590  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+ 1591  sudo apt-key fingerprint 0EBFCD88
+ 1592  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"
+ 1593  sudo groupadd docker
+ 1594  sudo usermod -aG docker $USER
+ 1595  newgrp docker
+ 1596  clear
+ 1597  docker-compose up
+ 1598  docker-compose -up
+ 1599  clear
+ 1600  cd /etc/postgresql/9.x/main/
+ 1601  ls
+ 1602  cd node_modules/
+ 1603  ls
+ 1604  cd ..
+ 1605  docker-compose down
+ 1606  docker-compose up
+ 1607  docker ps
+ 1608  docker-compose down
+ 1609  docker ps
+ 1610  docker kill b3e831d4d573
+ 1611  docker ps
+ 1612  clear
+ 1613  docker-compose up
+ 1614  docker ps
+ 1615  docker kill 64ed6ef1f9cd 
+ 1616  docker ps
+ 1617  docker-compose up
+ 1618  cd src
+ 1619  clear
+ 1620  node node_sql.js 
+ 1621  clear
+ 1622  npm i pg
+ 1623  node node_sql.js 
+ 1624  clear
+ 1625  node node_sql.js 
+ 1626  clear
+ 1627  node node_sql.js 
+ 1628  cd ..
+ 1629  docker-compose up
+ 1630  node src/node_sql.js 
+ 1631  clear
+ 1632  node src/node_sql.js 
+ 1633  docker-compose up
+ 1634  clear
+ 1635  npm install --save pg
+ 1636  node src/node_sql.js 
+ 1637  clear
+ 1638  node src/node_sql.js 
+ 1639  find \ -name "postgresql.conf"
+ 1640  clear
+ 1641  find \ -name "postgresql.conf"
+ 1642  clear
+ 1643  node src/node_sql.js 
+ 1644  docker-compose up
+ 1645  node src/node_sql.js 
+ 1646  clear
+ 1647  docker-compose up
+ 1648  node src/node_sql.js 
+ 1649  clear
+ 1650  node src/node_sql.js 
+ 1651  clear
+ 1652  node src/node_sql.js 
+ 1653  clear
+ 1654  node src/node_sql.js 
+ 1655  sudo apt-get --purge remove postgrsql\*
+ 1656  sudo apt-get --purge remove postgresql\*
+ 1657  node src/node_sql.js 
+ 1658  docker-compose up
+ 1659  npm test
+ 1660  npm init
+ 1661  npm test
+ 1662  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-186-consume-github-api.git
+ 1663  cd src
+ 1664  node api.js 
+ 1665  npx jasmine
+ 1666  npm add jasmin
+ 1667  node api.js 
+ 1668  cd ..
+ 1669  npm install node-fetch --save
+ 1670  node src/api.js 
+ 1671  npm test
+ 1672  clear
+ 1673  npm test
+ 1674  clear
+ 1675  git init
+ 1676  git status
+ 1677  git checkout memory_game_in_vanilla
+ 1678  git add .
+ 1679  git status
+ 1680  git commit -m "updated spec"
+ 1681  git push
+ 1682  git init
+ 1683  git branch -b node_sql
+ 1684  git checkout -b node_sql
+ 1685  git status
+ 1686  touch .gitignore
+ 1687  nano .gitignore
+ 1688  git status
+ 1689  git add .
+ 1690  git add docker-compose.yml package-lock.json package.json postgresql/ spec/ src/
+ 1691  git status
+ 1692  git commit -m "pushed code"
+ 1693  git push
+ 1694  git push --set-upstream origin node_sql
+ 1695  git init
+ 1696  git checkout -b node_sql
+ 1697  git status
+ 1698  git add .
+ 1699  git commit -m "add node_modules for test"
+ 1700  git push
+ 1701  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-279-express-forms-and-templates-.git
+ 1702  npm install express --save
+ 1703  npm install -g npm to update!
+ 1704  clear
+ 1705  npm init
+ 1706  npx add jasmin
+ 1707  cd src
+ 1708  node animal_src.js 
+ 1709  cd src
+ 1710  node node_sql.js 
+ 1711  docker-compose up
+ 1712  sudo docker ps-aq
+ 1713  sudo docker ps -aq
+ 1714  sudo docker stop $(docker ps -aq)
+ 1715  sudo docker ps -aq
+ 1716  sudo docker rm $(docker ps -aq)
+ 1717  sudo docker ps -aq
+ 1718  sudo docker-compose up
+ 1719  git init
+ 1720  git status
+ 1721  git add .
+ 1722  git status
+ 1723  git commit -m "update_sql"
+ 1724  git psh
+ 1725  git push
+ 1726  npm test
+ 1727  git@github.com:Umuzi-org/Sizwe-Mpontshane-222-memory-game-in-vanilla-js.git
+ 1728  git clone git@github.com:Umuzi-org/Sizwe-Mpontshane-222-memory-game-in-vanilla-js.git
+ 1729  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-222-memory-game-in-vanilla-js.git
+ 1730  npm test
+ 1731  clear
+ 1732  npm test
+ 1733  clear
+ 1734  npm install fast-glob
+ 1735  npm test
+ 1736  clear
+ 1737  npx jasmine
+ 1738  npm add jasmne
+ 1739  npm add jasmine
+ 1740  clear
+ 1741  npm test
+ 1742  clear
+ 1743  npm test
+ 1744  clear
+ 1745  npm test
+ 1746  clear
+ 1747  npm test
+ 1748  clear
+ 1749  npm test
+ 1750  clear
+ 1751  npm test
+ 1752  clear
+ 1753  npm test
+ 1754  clear
+ 1755  git init
+ 1756  git status
+ 1757  git checkout -b memory_game_in_vanilla
+ 1758  git add .
+ 1759  git commit -m "spec_update"
+ 1760  git push
+ 1761  git push --set-upstream origin memory_game_in_vanilla
+ 1762  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-222-memory-game-in-vanilla-js.git
+ 1763  cd src
+ 1764  node api.js 
+ 1765  npm test
+ 1766  git init
+ 1767  git status
+ 1768  git add .
+ 1769  git status
+ 1770  git commit -m "renamed_files"
+ 1771  git push
+ 1772  npm test
+ 1773  cd src
+ 1774  node api.js 
+ 1775  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-186-consume-github-api.git
+ 1776  cd src
+ 1777  node api.js 
+ 1778  npm install axios
+ 1779  node api.js 
+ 1780  clear
+ 1781  node api.js 
+ 1782  clear
+ 1783  node api.js 
+ 1784  clear
+ 1785  node api.js 
+ 1786  clear
+ 1787  node api.js 
+ 1788  clear
+ 1789  node api.js 
+ 1790  clear
+ 1791  node api.js 
+ 1792  clear
+ 1793  cd ..
+ 1794  git init
+ 1795  git status
+ 1796  git add .
+ 1797  git status
+ 1798  git commit -m "updated_api"
+ 1799  git push
+ 1800  node src/api.js 
+ 1801  git status
+ 1802  git add .
+ 1803  git status
+ 1804  git commit -m "updated_api"
+ 1805  git push
+ 1806  git checkout -b consumer_github_api\
+ 1807  git checkout -b consumer_github_api
+ 1808  git push
+ 1809  git push --set-upstream origin consumer_github_api
+ 1810  npm test
+ 1811  npm i jasmine
+ 1812  npm test
+ 1813  npm i jsdom
+ 1814  jasmine
+ 1815  jasmin
+ 1816  jasmine
+ 1817  npm test
+ 1818  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-269-password-checker.git
+ 1819  cd Sizwe-Mpontshane-269-password-checker/
+ 1820  git remote rename origin upstream 
+ 1821  git remote add origin https://github.com/Umuzi-org/Sizwe-Mpontshane-269-password-checker.git
+ 1822  git push origin master
+ 1823  git remote rename origin upstream 
+ 1824  git push origin master
+ 1825  git remote add origin https://github.com/sizwempontshane/Password_checker.git
+ 1826  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-269-password-checker.git
+ 1827  cd Sizwe-Mpontshane-269-password-checker/
+ 1828  git remote rename origin upstream 
+ 1829  git remote add origin https://github.com/sizwempontshane/Password_checker.git
+ 1830  git push origin master
+ 1831  cd ..
+ 1832  clear
+ 1833  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-266-string-calculator.git
+ 1834  cd Sizwe-Mpontshane-266-string-calculator/
+ 1835  git remote rename origin upstream 
+ 1836  git remote add origin https://github.com/sizwempontshane/String_Calculator.git
+ 1837  git push origin master
+ 1838  cd ..
+ 1839  clear
+ 1840  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-230-email-random-inspirational-quote.git
+ 1841  cd Sizwe-Mpontshane-230-email-random-inspirational-quote/
+ 1842  git remote rename origin upstream 
+ 1843  git remote add origin https://github.com/sizwempontshane/Email_Random_inspirational.git
+ 1844  git push origin master
+ 1845  cd ..
+ 1846  clear
+ 1847  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-186-consume-github-api.git
+ 1848  cd Sizwe-Mpontshane-186-consume-github-api/
+ 1849  git remote rename origin upstream 
+ 1850  git remote add origin https://github.com/sizwempontshane/Consumer_githun_api.git
+ 1851  git push origin master
+ 1852  clear
+ 1853  cd ..
+ 1854  git clone https://github.com/Umuzi-org/Sizwe-Mpontshane-200-sql-.git
+ 1855  cd Sizwe-Mpontshane-200-sql-/
+ 1856  git remote rename origin upstream
+ 1857  git remote add origin https://github.com/sizwempontshane/SQL.git
+ 1858  git push origin master
+ 1859  cd src
+ 1860  node string_calculator.js 
+ 1861  node challenge1.js 
+ 1862  clear
+ 1863  node challenge1.js 
+ 1864  clear
+ 1865  node challenge1.js 
+ 1866  git clone https://github.com/sizwempontshane/git-basic-exercises.git
+ 1867  cd Projects2_0/
+ 1868  ls
+ 1869  cd git-basic-exercises/
+ 1870  ls
+ 1871  ls -a
+ 1872  git init
+ 1873  la -a
+ 1874  git status
+ 1875  touch README.md
+ 1876  ls -a
+ 1877  git status
+ 1878  git log
+ 1879  git add .
+ 1880  git status
+ 1881  mkdir git-basic-exercises
+ 1882  ls
+ 1883  cd git-basic-exercises/
+ 1884  ls -a
+ 1885  git init
+ 1886  ls -a
+ 1887  git status
+ 1888  git log
+ 1889  touch README.md
+ 1890  ls -a
+ 1891  git status
+ 1892  git log
+ 1893  git add .
+ 1894  git status
+ 1895  git log
+ 1896  git commit -m "initial commit"
+ 1897  git log
+ 1898  nano README.md 
+ 1899  cat README.md 
+ 1900  git status
+ 1901  git add .
+ 1902  git status
+ 1903  git commit -m "second commit"
+ 1904  git log
+ 1905  cat README.md 
+ 1906  nano README.md 
+ 1907  cat README.md 
+ 1908  git status
+ 1909  git add .
+ 1910  git status
+ 1911  git commit -m "third commit"
+ 1912  git log
+ 1913  git checkout 7d0367362490e8c90df3e3234116cbca114c4772
+ 1914  cat README.md 
+ 1915  git checkout main
+ 1916  cat README.md 
+ 1917  git checkout master
+ 1918  cat README.md 
+ 1919  git branch
+ 1920  git checkout milkshake-flavours
+ 1921  git branch -b milkshake-flavours
+ 1922  git checkout branch -b milkshake-flavours
+ 1923  git checkout -b milkshake-flavours
+ 1924  git branch
+ 1925  nano milkshakes.md
+ 1926  git status
+ 1927  git add .
+ 1928  git status
+ 1929  git commit -m "added initial flavours"
+ 1930  \git log
+ 1931  git checkout main
+ 1932  git checkout master
+ 1933  git branch
+ 1934  git checkout -b history
+ 1935  git branch
+ 1936  git log
+ 1937  git branch
+ 1938  history > history.txt
+ 1939  ls -a
+ 1940  git status
+ 1941  git add .
+ 1942  git commit -m "added history"
+ 1943  git log
+ 1944  git branch milkshake-flavours 
+ 1945  git checkout m
+ 1946  git checkout milkshake-flavours 
+ 1947  ls -a
+ 1948  git status
+ 1949  git log
+ 1950  git checkout history
+ 1951  git log
+ 1952  ls -a
+ 1953  nano README.md 
+ 1954  git status
+ 1955  git add .
+ 1956  git commit -m "random readme changes"
+ 1957  git checkout history
+ 1958  cat README.md 
+ 1959  rm README.md 
+ 1960  echo "booya" > README.md
+ 1961  git status
+ 1962  git add .
+ 1963  git commit -m "rewrote readme"
+ 1964  cat README.md 
+ 1965  git checkout master
+ 1966  ls
+ 1967  git log
+ 1968  git checkout milkshake-flavours 
+ 1969  ls
+ 1970  git log
+ 1971  git checkout history 
+ 1972  ls
+ 1973  git log
+ 1974  git checkout master
+ 1975  git merge milkshake-flavours 
+ 1976  ls
+ 1977  git log
+ 1978  git checkout history
+ 1979  git log
+ 1980  git checkout master
+ 1981  git merge history
+ 1982  git log
+ 1983  cd git-basic-exercises/
+ 1984  ls
+ 1985  git status
+ 1986  git branch
+ 1987  git push
+ 1988  git remote add https://github.com/sizwempontshane/git-basic-exercise2.git
+ 1989  clear
+ 1990  git init
+ 1991  git status
+ 1992  git checkout milkshake-flavours 
+ 1993  git status
+ 1994  git checkout master
+ 1995  git branch
+ 1996  git log
+ 1997  git remote add origin https://github.com/sizwempontshane/git-basic-exercises2.git
+ 1998  git branch -M main
+ 1999  git push -u origin main
+ 2000  mkdir git-basic-exercises-1
+ 2001  cd git-basic-exercises-1/
+ 2002  ls -a
+ 2003  git staus
+ 2004  git status
+ 2005  clear
+ 2006  git init
+ 2007  git status
+ 2008  touch README.md
+ 2009  ls -a
+ 2010  git status
+ 2011  git log
+ 2012  git add .
+ 2013  git status
+ 2014  git add .
+ 2015  git status
+ 2016  git remove .
+ 2017  git --help
+ 2018  clear
+ 2019  git reset .
+ 2020  git status
+ 2021  git add .
+ 2022  git status
+ 2023  git commit -m "initial commit"
+ 2024  nano README.md
+ 2025  cat README.md
+ 2026  git status
+ 2027  git add .
+ 2028  git status
+ 2029  git commit -m "second commit"
+ 2030  nano README.md
+ 2031  cat README.md
+ 2032  git add .
+ 2033  git status
+ 2034  git commit -m "third commit"
+ 2035  git log
+ 2036  git checkout f9780db682d4d14b8f53294423574248d4e9e74e
+ 2037  cat README.md 
+ 2038  git checkout master
+ 2039  cat README.md 
+ 2040  git branch
+ 2041  git checkout -b milkshake-flavours
+ 2042  git branch
+ 2043  nano milkshakes.md
+ 2044  git status
+ 2045  git add .
+ 2046  git status
+ 2047  git commit -m "added initial flavours"
+ 2048  git log
+ 2049  git checkout maser
+ 2050  git checkout master
+ 2051  git branch
+ 2052  git log
+ 2053  git checkout -b history
+ 2054  git branch
+ 2055  history > history.txt
